@@ -1,2 +1,2 @@
 # dcs-web-legacy
-The Old Downtown Chamber Series websie
+The old Downtown Chamber Series websie
